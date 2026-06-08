@@ -145,9 +145,11 @@ Dashboard includes:
 
 ---
 
-## 📸 Dashboard Screenshots
 
 ### 📊 Executive Dashboard
+
+<img width="1305" height="823" alt="image" src="https://github.com/user-attachments/assets/a769617b-ede9-4744-99ce-1505e171444e" />
+
 
 - Total Revenue
 - Total Customers
@@ -156,6 +158,9 @@ Dashboard includes:
 
 ### 👥 Customer Dashboard
 
+<img width="1274" height="776" alt="image" src="https://github.com/user-attachments/assets/22d5b57d-9a0c-4599-9e67-ce06a6549371" />
+
+
 - Customer Segments
 - RFM Analysis
 - Loyalty Distribution
@@ -163,12 +168,18 @@ Dashboard includes:
 
 ### 📦 Product Dashboard
 
+<img width="1303" height="824" alt="image" src="https://github.com/user-attachments/assets/2940e3ce-5935-4674-8323-5d8f98b109c8" />
+
+
 - Product Performance
 - Revenue by Category
 - Sales Analysis
 - Product Contribution
 
 ### 💡 Business Insights Dashboard
+
+<img width="1295" height="795" alt="image" src="https://github.com/user-attachments/assets/fa121fb5-37dd-40aa-a6e5-18aa17b51550" />
+
 
 - Customer Retention Analysis
 - Revenue Opportunities
